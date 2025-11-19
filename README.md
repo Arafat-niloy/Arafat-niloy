@@ -2,7 +2,7 @@
   
   <!-- Greeting with waving hand -->
   <h1 style="margin-bottom: 15px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    Hi! I'm <span style="color:#00BFFF;">Arafat Niloy
+    Hi! I'm <span style="color:#00BFFF;">Arafatul Islam
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="35" height="35" style="vertical-align: middle;"/>
     </span>
   </h1>
